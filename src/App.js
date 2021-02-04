@@ -33,7 +33,7 @@ function App() {
           <h1>Drum-Up</h1>
           <h2>Super Unterricht</h2>
           <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni nisi saepe, adipisci at quos ut labore ad incidunt officiis fugit.</p>
-          <Button text="hello"/>
+          <Button onClick={toggleTheme} text="hello"/>
         </main>
        </div>
     </div>

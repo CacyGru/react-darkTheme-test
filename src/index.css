@@ -43,6 +43,7 @@ code {
 .active {
   color: red;
   background: white;
+  font-size: 1rem;
 }
 
 header {
